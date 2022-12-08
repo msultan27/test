@@ -1,6 +1,14 @@
-<?php 
+<!DOCTYPE html>
+<html>
+<head>
+     <!-- Required Tags -->
+     <meta charset="utf-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1"> 
+     <title>For First Web Page</title>
+    
+</head>
+<body>
+   <h1> For My First Web Page .  
 
-echo "<h1> Hello world From Hyderabad Sindh";
-
-
-echo " <h1>About.php </h1>";
+</body>
+</html>
